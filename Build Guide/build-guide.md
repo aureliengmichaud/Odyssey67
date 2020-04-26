@@ -5,7 +5,7 @@
 ## List of parts
 
  Part  |  Quantity
- ----  |  --------
+ :----  |  :--------:
  Odyssey 67 PCB  |  1
  1N4148 Diodes  |  67
  Elite-C Microcontroller  |  1
