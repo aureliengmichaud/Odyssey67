@@ -6,7 +6,7 @@
 
  Part  |  Quantity
  :----  |  :--------:
- Odyssey 67 PCB  |  1
+ [Odyssey 67 PCB](https://github.com/aureliengmichaud/Odyssey67/tree/master/PCB/Gerbers)  |  1
  1N4148 Diodes  |  67
  Elite-C Microcontroller  |  1
  Cherry MX (or compatible) Switches  |  67
