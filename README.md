@@ -25,7 +25,7 @@
 
 ## PCB
 
- ![PCB Front](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-front-3d.png)
+ ![PCB Front](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-front.png)
 
  ![PCB Back](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-back.png)
 
