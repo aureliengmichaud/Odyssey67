@@ -17,7 +17,7 @@
 
 ### General Layout
 
- ![KLE Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-kle-layout.png)
+ ![KLE Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-3d.png)
 
 ### Keycaps Size Layout
 
