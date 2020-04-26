@@ -23,6 +23,10 @@
 
  ![Keycaps Size Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-size-layout.png)
 
+## PCB
+
+## Plates
+
 ## Parts
 
  All the parts required are neatly listed in the [build guide](https://github.com/aureliengmichaud/Odyssey67/tree/master/Build%20Guide), but here's a quick overview:
