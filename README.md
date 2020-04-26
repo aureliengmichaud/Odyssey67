@@ -21,7 +21,7 @@
 
 ### Recommended Layout
 
- ! [ANSI Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-ansi-layout.png)
+ ![ANSI Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-ansi-layout.png)
 
 ### Keycaps Size Layout
 
