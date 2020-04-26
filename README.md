@@ -15,7 +15,13 @@
 
 ## Layout
 
+### General Layout
+
  ![KLE Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-kle-layout.png)
+
+### Recommended Layout
+
+ ! [ANSI Layout]()
 
 ## Parts
 
