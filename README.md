@@ -25,6 +25,12 @@
 
 ## PCB
 
+ ![PCB Front](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-front.png)
+
+ ![PCB Back](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-back.png)
+
+ ![PCB Kicad](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-kicad.PNG)
+
 ## Plates
 
 ## Parts
