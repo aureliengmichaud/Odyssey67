@@ -31,9 +31,11 @@
 
  ![PCB Kicad](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-kicad.PNG)
 
- You can grab the zip containing the gerbers needed for manufacturing [here](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip).
+ You can grab the zip containing the gerbers files needed for manufacturing [here](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip). Simply upload the zip to the PCB manufacturer of your choice and get them made.
 
 ## Plates
+
+ 
 
 ## Parts
 
