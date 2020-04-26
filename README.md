@@ -25,21 +25,35 @@
 
 ## PCB
 
+### Front
+
  ![PCB Front](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-front.png)
+
+### Back
 
  ![PCB Back](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-back.png)
 
+### Kicad
+
  ![PCB Kicad](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-kicad.PNG)
 
- You can grab the zip containing the gerbers files needed for manufacturing [here](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip). Simply upload the zip to the PCB manufacturer of your choice and get them made.
+### Files
+
+ You can grab the zip containing the gerbers files needed for manufacturing [here](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip). The next step is to simply upload the zip to the PCB manufacturer of your choice.
 
 ## Plates
 
+### Top Plate
+
  ![Top Plate](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-top-plate.png)
+
+### Bottom Plate
 
  ![Bottom Plate](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-bottom-plate.png)
 
- Grab the files needed to get the plates made [here](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates). DXF files and SVG files are included.
+### Files
+
+ Grab the files needed to get the plates made [here](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates). DXF and SVG files are included, depending on the manufacturer's needs.
 
 ## Parts
 
