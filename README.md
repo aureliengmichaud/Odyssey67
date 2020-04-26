@@ -19,10 +19,6 @@
 
  ![KLE Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-kle-layout.png)
 
-### Recommended Layout
-
- ![ANSI Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-ansi-layout.png)
-
 ### Keycaps Size Layout
 
  ![Keycaps Size Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-size-layout.png)
