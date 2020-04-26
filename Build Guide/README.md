@@ -2,7 +2,7 @@
 
  Before beginning your build, make sure to review the list of parts required below, just in case you didn't forgot anything. It does happen.
 
-## List of parts
+## Parts list
 
  Part  |  Quantity
  :----  |  :--------:
