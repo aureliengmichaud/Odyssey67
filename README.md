@@ -11,7 +11,6 @@
  * Cool looking sandwich case.
  * No LEDs.
  * Not another swiss cheese PCB.
- * Cherry MX switches.
  * Open Source.
 
 ## Layout
