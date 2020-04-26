@@ -33,10 +33,6 @@
 
  ![PCB Back](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-back.png)
 
-### Kicad
-
- ![PCB Kicad](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-kicad.PNG)
-
 ### Files
 
  Grab the zip containing the gerbers files needed for manufacturing [**here**](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip). The next step is to simply upload the zip to the PCB manufacturer of your choice.
