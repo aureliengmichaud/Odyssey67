@@ -35,7 +35,11 @@
 
 ## Plates
 
- 
+ ![Top Plate](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-top-plate.png)
+
+ ![Bottom Plate](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-bottom-plate.png)
+
+ Grab the files needed to get the plates made [here](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates). DXF files and SVG files are included.
 
 ## Parts
 
