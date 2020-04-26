@@ -1,0 +1,19 @@
+--- INPUT PLATE & CASE SPECS ---
+
+Switch Type: MX {_t:3}
+Stabilizer Type: Cherry Only {_s:2}
+Case Type: Sandwich
+USB Cutout: OFF
+Mount Holes: 8/3.2/10
+Edge Padding: ON/12/12/12/12
+Plate Corners: ON/2
+Custom Polygons: OFF
+Kerf: OFF
+Key Unit Size: OFF
+Line Color: OFF
+Line Weight: OFF
+
+--- OUTPUT PLATE SPECS ---
+
+Width: 329mm
+Height: 119mm
