@@ -8,7 +8,7 @@
 
  * Simple layout (67 Keys ANSI layout).
  * USB-C driven by the Elite-C microcontroller.
- * Cool looking Sandwich case.
+ * Cool looking sandwich case.
  * No LEDs.
  * Not another swiss cheese PCB.
  * Cherry MX switches.
