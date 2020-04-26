@@ -39,7 +39,7 @@
 
 ### Files
 
- Grab the zip containing the gerbers files needed for manufacturing [here](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip). The next step is to simply upload the zip to the PCB manufacturer of your choice.
+ Grab the zip containing the gerbers files needed for manufacturing [**here**](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip). The next step is to simply upload the zip to the PCB manufacturer of your choice.
 
 ## Plates
 
@@ -53,7 +53,7 @@
 
 ### Files
 
- Grab the files needed to get the plates made [here](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates). DXF and SVG files are included, depending on the manufacturer's needs.
+ Grab the files needed to get the plates made [**here**](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates). DXF and SVG files are included, depending on the manufacturer's needs.
 
 ## Parts
 
