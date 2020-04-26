@@ -29,7 +29,7 @@
 
 ## License
 
- Published under the [MIT License](https://github.com/aureliengmichaud/Odyssey67/blob/master/LICENSE).
+ Released under [MIT License](https://github.com/aureliengmichaud/Odyssey67/blob/master/LICENSE).
 
 
 
