@@ -2,7 +2,7 @@
 
  A simple, newbie oriented 65% mechanical keyboard using the Elite-C microcontroller.
 
- ![PCB Front Render](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-front.png)
+ ![PCB Front Render](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-3d.png)
 
 ## Features
 
@@ -17,7 +17,7 @@
 
 ### General Layout
 
- ![KLE Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-3d.png)
+ ![KLE Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-kle-layout.png)
 
 ### Keycaps Size Layout
 
