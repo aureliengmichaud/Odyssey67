@@ -63,6 +63,7 @@
  * x1 Set of Cherry MX PCB Mount Stabilizers
  * x67 1N4148 Diodes
  * x1 USB-C Cable
+ * x67 Keycaps
 
 ## License
 
