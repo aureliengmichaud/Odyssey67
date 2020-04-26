@@ -2,6 +2,8 @@
 
  A simple, newbie oriented 65% mechanical keyboard using the Elite-C microcontroller.
 
+ ![PCB Front Render](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-front.png)
+
 ## Features
 
  * Simple layout (67 Keys ANSI layout).
