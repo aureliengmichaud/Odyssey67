@@ -1,6 +1,6 @@
 # Odyssey67 Build Guide
 
- Before beginning your build, make sure to review the list of parts required below, just in case you didn't forget anything. It does happen.
+ Before beginning your build, make sure to review the list of parts required below, just in case you didn't forget anything.
 
 ## Parts list
 
