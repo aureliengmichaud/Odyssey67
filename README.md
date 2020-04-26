@@ -10,7 +10,7 @@
  * No LEDs.
  * Not another swiss cheese PCB.
  * Cherry MX switches.
- * Open-source.
+ * Open Source.
 
 ## Layout
 
