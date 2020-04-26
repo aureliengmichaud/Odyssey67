@@ -20,6 +20,8 @@
 
 ## Parts
 
+ All the parts required are neatly listed in the [build guide](https://github.com/aureliengmichaud/Odyssey67/tree/master/Build%20Guide), but here's a quick overview:
+
  * x1 Odyssey67 PCB
  * x1 Top & Bottom Plates
  * x16 M3x8 Screws
