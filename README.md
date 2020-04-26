@@ -6,10 +6,10 @@
 
 ## Features
 
- * Simple layout (67 Keys ANSI layout).
+ * Simple and usable layout.
  * USB-C driven by the Elite-C microcontroller.
  * Cool looking sandwich case.
- * No LEDs.
+ * No LEDs and no underglow.
  * Not another swiss cheese PCB.
  * Open Source.
 
