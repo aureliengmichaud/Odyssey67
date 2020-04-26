@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/molokopluz/Dropbox/04. Partagé/Documents/Projects/Resources/KiCad/MX Alps Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name Elite-C)(type Legacy)(uri "C:/Users/molokopluz/Dropbox/04. Partagé/Documents/Projects/Resources/KiCad/Elite-C/Elite-C.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "C:/Users/molokopluz/Dropbox/04. Partagé/Documents/Projects/Resources/KiCad/Random Keyboard Parts/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name Diode)(type Legacy)(uri "C:/Users/molokopluz/Dropbox/04. Partagé/Documents/Projects/Resources/KiCad/Diodes/Diode.lib")(options "")(descr ""))
+)

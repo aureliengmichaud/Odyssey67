@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Diodes)(type KiCad)(uri "C:/Users/molokopluz/Dropbox/04. Partagé/Documents/Projects/Resources/KiCad/Diodes")(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri "C:/Users/molokopluz/Dropbox/04. Partagé/Documents/Projects/Resources/KiCad/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri "C:/Users/molokopluz/Dropbox/04. Partagé/Documents/Projects/Resources/KiCad/MX Alps Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "Random Keyboard Parts")(type KiCad)(uri "C:/Users/molokopluz/Dropbox/04. Partagé/Documents/Projects/Resources/KiCad/Random Keyboard Parts")(options "")(descr ""))
+  (lib (name Logos)(type KiCad)(uri "C:/Users/molokopluz/Dropbox/04. Partagé/Documents/Projects/Resources/KiCad/Logos.pretty")(options "")(descr ""))
+)
