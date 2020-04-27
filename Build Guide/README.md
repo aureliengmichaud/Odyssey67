@@ -11,7 +11,7 @@
  [Elite-C Microcontroller](https://splitkb.com/collections/keyboard-parts/products/elite-c-rev3-microcontroller)  |  1
  [Cherry MX (or compatible) Switches](https://candykeys.com/category:switches/brand:cherry)  |  67
  [Cherry Stabilizers](https://candykeys.com/product/official-cherry-mx-stabiliser-pack-4x2u-x-6-25u)  |  1 Pack
- [Odyssey 67 Top Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)  |  1
+ [Odyssey 67 Switch Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)  |  1
  [Odyssey 67 Bottom Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)  |  1
  [M3x8 Screws](https://www.ebay.fr/sch/i.html?_odkw=m3x8+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+screws&_sacat=0)  |  16
  [M3x14 Standoffs](https://www.ebay.fr/sch/i.html?_odkw=m3+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+standoffs&_sacat=0)  |  8

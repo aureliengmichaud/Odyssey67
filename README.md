@@ -39,9 +39,9 @@
 
 ## Plates
 
-### Top Plate
+### Switch Plate
 
- ![Top Plate](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-top-plate.png)
+ ![Switch Plate](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-top-plate.png)
 
 ### Bottom Plate
 
@@ -56,7 +56,7 @@
  All the parts required are neatly listed in the [**build guide**](https://github.com/aureliengmichaud/Odyssey67/tree/master/Build%20Guide), but here's a quick overview:
 
  * x1 Odyssey67 PCB
- * x1 Top & Bottom Plates
+ * x1 Switch & Bottom Plates
  * x16 M3x8 Screws
  * x8 M3x14 Standoffs
  * x67 Cherry MX Switches
