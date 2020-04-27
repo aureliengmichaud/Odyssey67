@@ -41,7 +41,7 @@
 
 ### Switch Plate
 
- ![Switch Plate](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-top-plate.png)
+ ![Switch Plate](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-switch-plate.png)
 
 ### Bottom Plate
 
