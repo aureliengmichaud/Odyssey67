@@ -10,7 +10,8 @@
  [1N4148 Diodes](https://candykeys.com/product/fairchild-semiconductor-diode-1n4148-pack-of-100)  |  67
  [Elite-C Microcontroller](https://splitkb.com/collections/keyboard-parts/products/elite-c-rev3-microcontroller)  |  1
  [Cherry MX (or compatible) Switches](https://candykeys.com/category:switches/brand:cherry)  |  67
- [Cherry Stabilizers](https://candykeys.com/product/official-cherry-mx-stabiliser-pack-4x2u-x-6-25u)  |  1 Pack
+ [Cherry Stabilizers 2u](https://candykeys.com/product/original-cherry-2u-pcb-stabilizer)  |  3
+ [Cherry Stabilizer 6.25u](https://candykeys.com/product/official-cherry-mx-stabiliser-6-25u)  |  1
  [Odyssey 67 Switch Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)  |  1
  [Odyssey 67 Bottom Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)  |  1
  [M3x8 Screws](https://www.ebay.fr/sch/i.html?_odkw=m3x8+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+screws&_sacat=0)  |  16
@@ -21,6 +22,7 @@
 ### Notes
 
  * Being located in the EU, I've tried my best to list parts from EU sellers for my fellow europeans.
- * The Odyssey67 uses 3 2U stabilizers and 1 6.25U stabilizer. The stabilizers are usually sold as a pack of 4 2U stabilizers and 1 6.25U stabilizer.
+ * The Odyssey67 uses 3 2u stabilizers and 1 6.25u stabilizer. The stabilizers are sometimes sold as packs of 4 2U stabilizers and 1 6.25U stabilizer.
+ * **Not necessary but recommended** is lubrication for the stabilizers. Good dieletric with PTFE grease such as Super Lube is an industry standard. You can find some [**here**](https://candykeys.com/category:lubrication).
 
 # Build Guide In Progress
