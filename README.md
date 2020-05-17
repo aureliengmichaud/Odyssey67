@@ -12,6 +12,7 @@
  * No LEDs and no underglow.
  * Not another swiss cheese PCB.
  * Open Source.
+ * Powered by [QMK Firmware](https://github.com/qmk/qmk_firmware).
 
 ## Layout
 
