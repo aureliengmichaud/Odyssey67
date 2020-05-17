@@ -68,7 +68,9 @@
 
 ## Firmware
 
- The keyboard is powered by [QMK Firmware](https://github.com/qmk/qmk_firmware). You can find the firmware for the Odyssey67 [here](https://github.com/aureliengmichaud/qmk_firmware/tree/master/keyboards/odyssey/67). Refer to the [official guide](https://docs.qmk.fm/#/) from QMK for all the proper booting and flashing instructions.
+ The keyboard is powered by [QMK Firmware](https://github.com/qmk/qmk_firmware). You can find the firmware for the Odyssey67 [here](https://github.com/aureliengmichaud/qmk_firmware/tree/master/keyboards/odyssey/67). 
+
+ !>If you're new to QMK, please take the time to learn all the ins and outs and familiarize yourself with it by reading the [official documentation](https://docs.qmk.fm/#/).
 
 ## License
 
