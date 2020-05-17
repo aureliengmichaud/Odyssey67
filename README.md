@@ -66,10 +66,10 @@
  * x1 USB-C Cable
  * x67 Keycaps
 
+## Firmware
+
+ The keyboard is powered by [QMK Firmware](https://github.com/qmk/qmk_firmware). You can find the firmware for the Odyssey67 [here](https://github.com/aureliengmichaud/qmk_firmware/tree/master/keyboards/odyssey/67). Refer to the [official guide](https://docs.qmk.fm/#/) from QMK for all the proper booting and flashing instructions.
+
 ## License
 
  Released under [MIT License](https://github.com/aureliengmichaud/Odyssey67/blob/master/LICENSE).
-
-
-
-
