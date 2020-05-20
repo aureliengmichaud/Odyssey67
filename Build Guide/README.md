@@ -22,7 +22,7 @@
 ### Notes
 
  * Being located in the EU, I've tried my best to list parts from EU sellers for my fellow europeans.
- * The Odyssey67 uses 3 2u stabilizers and 1 6.25u stabilizer. The stabilizers are sometimes sold as packs of 4 2U stabilizers and 1 6.25U stabilizer.
+ * The Odyssey67 uses 3 2u stabilizers and 1 6.25u stabilizer. The stabilizers are usually sold as packs of 4 2U stabilizers and 1 6.25U stabilizer.
  * **Not necessary but recommended** is lubrication for the stabilizers. Good dieletric grease with PTFE such as Super Lube is an industry standard. You can find some [here](https://candykeys.com/category:lubrication).
 
 # Build Guide In Progress

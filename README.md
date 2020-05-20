@@ -8,10 +8,10 @@
 
  * Simple and usable layout.
  * USB-C driven by the Elite-C microcontroller.
- * Cool looking sandwich case.
+ * Awesome looking sandwich case.
  * No LEDs and no underglow.
  * Not another swiss cheese PCB.
- * Open Source.
+ * Fully open source.
  * Powered by [QMK Firmware](https://github.com/qmk/qmk_firmware).
 
 ## Layout
