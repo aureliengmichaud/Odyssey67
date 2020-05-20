@@ -2,7 +2,7 @@
 
  A simple, newbie oriented 65% mechanical keyboard using the Elite-C microcontroller.
 
- ![PCB Front Render](https://imgur.com/4Ekcaup)
+ ![PCB Front Render](https://i.imgur.com/4Ekcaup.png)
 
 ## Features
 
