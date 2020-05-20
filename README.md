@@ -18,21 +18,21 @@
 
 ### General Layout
 
- ![KLE Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-kle-layout.png)
+ ![KLE Layout](https://i.imgur.com/f4VOBou.png)
 
 ### Keycaps Size Layout
 
- ![Keycaps Size Layout](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-size-layout.png)
+ ![Keycaps Size Layout](https://i.imgur.com/bor1luP.png)
 
 ## PCB
 
 ### Front
 
- ![PCB Front](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-front.png)
+ ![PCB Front](https://i.imgur.com/EMjjPsy.png)
 
 ### Back
 
- ![PCB Back](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-pcb-back.png)
+ ![PCB Back](https://i.imgur.com/RfOzqZC.png)
 
 ### Files
 
@@ -42,11 +42,11 @@
 
 ### Switch Plate
 
- ![Switch Plate](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-switch-plate.png)
+ ![Switch Plate](https://i.imgur.com/5GfHcBU.png)
 
 ### Bottom Plate
 
- ![Bottom Plate](https://github.com/aureliengmichaud/Odyssey67/blob/master/Images/odyssey67-bottom-plate.png)
+ ![Bottom Plate](https://i.imgur.com/EwsVY63.png)
 
 ### Files
 
