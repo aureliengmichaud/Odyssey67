@@ -1,6 +1,6 @@
 # Odyssey67 Build Guide
 
- Before beginning your build, make sure to review the list of parts required below, just in case you didn't forget anything.
+ Before beginning your build, make sure to review the list of parts and tools required below, just in case you didn't forget anything.
 
 ## Parts list
 
@@ -18,6 +18,12 @@
  [M3x14 Standoffs](https://www.ebay.fr/sch/i.html?_odkw=m3+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+standoffs&_sacat=0)  |  8
  [USB-C Cable](https://candykeys.com/product/black-nylon-usb-c-cable-1m)  | 1
  [Keycaps](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200426114303&SearchText=keycaps)  |  67
+
+## Tools
+
+ * Soldering iron
+ * Wire cutter
+ * Allen wrenches
 
 ### Notes
 
