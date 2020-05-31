@@ -42,19 +42,23 @@ In this section, we'll review the parts used to build the keyboard. I advise you
 **One important thing to keep in mind throughout this build is the orientation of the PCB to avoid any mistakes in wiring.**
 
 ![PCB Front](https://i.imgur.com/J67INg9.jpg)
+
 ###### The front side of the PCB. The switches will go through this side and you will solder the diodes from here. You can easily recognize it by the placement of the Elite-C in the upper right corner and the Cherry switches markings.
 
 ![PCB Back](https://i.imgur.com/yge0in4.jpg)
+
 ###### The back side of the PCB. The Elite-C, its pin headers and the diodes will go through this side and you will solder the switches from here. Note the placement for the Elite-C in the upper left corner and the diodes markings.
 
 ### Plates
 
 ![Plates](https://i.imgur.com/VkDLBbC.jpg)
+
 ###### Take note of the correct switch plate orientation. The bottom plate orientation doesn't matter.
 
 ### Parts
 
 ![Parts](https://i.imgur.com/PJ79AwM.jpg)
+
 ###### Use this picture to make sure you've got every necessary parts.
 
 ###### Notes on the stabilizers : in the picture above, the stabilizers are assembled. They don't originally come in this state. Rather than doing a poor job at explaining how to build them, you can learn how to properly assemble and mod them in this [awesome video](https://youtu.be/D21Ocg9kVsU).
@@ -64,9 +68,11 @@ In this section, we'll review the parts used to build the keyboard. I advise you
 ## 01. Diodes
 
 ![Diodes 01](https://i.imgur.com/o8nvgG3.jpg)
+
 ###### Insert the diodes from the back of the PCB. Be careful, the orientation of the diodes do matter. The black line of the diode have to match the black line on the PCB like the photo above.
 
 ![Diodes 02](https://i.imgur.com/fDuZmhu.jpg)
+
 ###### Slightly bend the legs of the diode so they don't fall out. Solder the legs from the front side of the PCB.
 
 ###### Tip on soldering the diodes : if you want to make it easier for yourself during soldering, you can solder one diode at a time or one row at a time.
@@ -78,14 +84,17 @@ In this section, we'll review the parts used to build the keyboard. I advise you
 ## 02. Stabilizers
 
 ![Stabilizers 01](https://i.imgur.com/J6THE7V.jpg)
+
 ###### Insert the stabilizers in their proper spots. If you're unsure of how to insert them, watch the [video](https://youtu.be/D21Ocg9kVsU) previously linked in the reviewing section.
 
 ![Elite-C Headers](https://i.imgur.com/tL5Da0b.jpg)
+
 ###### Now would be a good time to solder the Elite-C headers. Simply insert them from the back of the PCB and solder them from the front. Trim out the pins with a wire cutter.
 
 #### **Don't solder the Elite-C just yet. You will run into clearance issues when soldering the switches.**
 
 ![Stabilizers 02](https://i.imgur.com/XiEf8Tf.jpg)
+
 ###### Insert the switch plate over the stabilizers. This can be tricky, but don't get frustrated just yet. Go slowly and insert them one a time.
 
 ![Stabilizers 03](https://i.imgur.com/fNtGjCp.jpg)
@@ -95,11 +104,13 @@ In this section, we'll review the parts used to build the keyboard. I advise you
 ## 03. Switches
 
 ![Switches 01](https://i.imgur.com/jZ08BLf.jpg)
+
 ###### Insert switches in each corner of the plates and through the PCB to align everything properly and solder them from the back of the PCB.
 
 ###### Take note of the two switches highlighted in the upper right corner in the picture above. The Elite-C will go over them from the back of the PCB. It's important that you take care of them before anything else, should you choose to test the Elite-C before soldering the rest of the switches. I didn't bother to test everything, that's why there are no pictures.
 
 ![Switches 02](https://i.imgur.com/zgjP2bY.jpg)
+
 ###### After soldering the 4 switches in the corners and the additional one in the upper right corner, carefully insert the rest of the switches in the plate and through the PCB and solder everything.
 
 **We're aiming toward the end of the build. Rest easy, the bulk of the work is done.**
@@ -107,6 +118,7 @@ In this section, we'll review the parts used to build the keyboard. I advise you
 ## 04. Elite-C
 
 ![Elite-C](https://i.imgur.com/iShp9wq.jpg)
+
 ###### Insert the Elite-C from the back of the PCB through the pin headers soldered earlier, solder everything and trim out the excess. Take note of the orientation of the Elite-C. The Reset button should be located in the lower right corner. If you're still unsure, match the pin numbers on the Elite-C with the numbers on the PCB.
 
 **Rather easy, wasn't it? Time to enclose everything and call it a day.**
@@ -114,11 +126,13 @@ In this section, we'll review the parts used to build the keyboard. I advise you
 ## 05. Endgame
 
 ![Case 01](https://i.imgur.com/lMT0fQC.jpg)
+
 ###### Screw the standoffs on the bottom plate. Nothing fancy here.
 
 ###### Before joining everything and if you haven't already, flash the firmware on the Elite-C. It'll save you from unscrewing the switch plate to flash.
 
 ![Case 02](https://i.imgur.com/c6PMh9z.jpg)
+
 ###### Carefully place the switch plate on the bottom plate. Match the holes and screw everything. All done.
 
 **Congratulations, you did it! You're the proud owner of a cool looking mechanical keyboard. Now choose your favorite set of keycaps and off to new adventures.**
