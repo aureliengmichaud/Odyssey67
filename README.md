@@ -1,7 +1,7 @@
 # Odyssey67
 
  [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/aureliengmichaud/Odyssey67/blob/master/LICENSE)
- ![Open Source](https://img.shields.io/badge/open_source-yes-green)
+ ![Open Source](https://img.shields.io/badge/open_source-yes-brightgreen)
 
  A simple, newbie oriented 65% mechanical keyboard using the Elite-C microcontroller.
 
