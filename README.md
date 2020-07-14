@@ -1,5 +1,7 @@
 # Odyssey67
 
+ [MIT License](https://badgen.net/badge/license/MIT/blue)
+
  A simple, newbie oriented 65% mechanical keyboard using the Elite-C microcontroller.
 
  ![PCB Front Render](https://i.imgur.com/4Ekcaup.png)
