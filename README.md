@@ -3,6 +3,8 @@
  [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/aureliengmichaud/Odyssey67/blob/master/LICENSE)
  ![Open Source](https://img.shields.io/badge/open_source-yes-brightgreen)
 
+ ### Update: The PCB is now on Rev 2.1; it has been updated due to some minor clearance issues with diodes and stabilizers.
+
  A simple, newbie oriented 65% mechanical keyboard using the Elite-C microcontroller.
 
  ![PCB Front Render](https://i.imgur.com/4Ekcaup.png)
@@ -71,7 +73,7 @@
 
 ## Firmware
 
- The keyboard is powered by [QMK Firmware](https://github.com/qmk/qmk_firmware). You can find the firmware for the Odyssey67 [here](https://github.com/aureliengmichaud/qmk_firmware/tree/master/keyboards/odyssey67). 
+ The keyboard is powered by [QMK Firmware](https://github.com/qmk/qmk_firmware). You can find the firmware for the Odyssey67 [here](https://github.com/aureliengmichaud/qmk_firmware/tree/master/keyboards/odyssey67).
 
  If you're new to QMK, please take the time to learn all the ins and outs and familiarize yourself with it by reading the [official documentation](https://docs.qmk.fm/#/).
 
