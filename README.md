@@ -65,7 +65,7 @@
  * x1 Switch & Bottom Plates
  * x16 M3x8 Screws
  * x8 M3x14 Standoffs
- * x67 Cherry MX Switches
+ * x67 Cherry MX Switches (or compatible)
  * x1 Set of Cherry MX PCB Mount Stabilizers
  * x67 1N4148 Diodes
  * x1 USB-C Cable
