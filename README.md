@@ -1,4 +1,4 @@
-[Odyssey67 Logo](https://i.imgur.com/8HvarXz.png)
+![Odyssey67 Logo](https://i.imgur.com/8HvarXz.png)
 
  [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/aureliengmichaud/Odyssey67/blob/master/LICENSE)
  ![Open Source](https://img.shields.io/badge/open_source-yes-brightgreen)
