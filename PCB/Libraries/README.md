@@ -4,4 +4,4 @@
 
  Elite-C created by [Keebio](https://github.com/keebio). I have only included the Elite-C footprint used in the project and the schematic symbol I've created. You can find more footprints from the repo [here](https://github.com/keebio/Keebio-Parts.pretty).
 
- Diodes footprints from [KiCad](https://kicad.github.io/symbols/Diode).
+ Additionally, you can find these footprints and more on my [Keyboard Parts Library](https://github.com/aureliengmichaud/Keyboard-Parts-Library) repo.

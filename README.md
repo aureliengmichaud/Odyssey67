@@ -1,11 +1,11 @@
-# Odyssey67
+[Odyssey67 Logo](https://i.imgur.com/8HvarXz.png)
 
  [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/aureliengmichaud/Odyssey67/blob/master/LICENSE)
  ![Open Source](https://img.shields.io/badge/open_source-yes-brightgreen)
 
- ### Update: The PCB is now on Rev 2.1; it has been updated due to some minor clearance issues with diodes and stabilizers.
+ ### Update: The PCB is now on Rev 2.1; it has been updated due to some minor clearance issues (stabilizers overlapping diodes).
 
- A simple, newbie oriented 65% mechanical keyboard using the Elite-C microcontroller.
+ A simple and practical 65% mechanical keyboard powered Elite-C microcontroller.
 
  ![PCB Front Render](https://i.imgur.com/4Ekcaup.png)
 
