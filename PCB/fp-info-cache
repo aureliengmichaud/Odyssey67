@@ -1,4 +1,4 @@
-17345459932790786
+17310505407496056
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -52339,6 +52339,13 @@ Yellow 5381 Series LED
 2
 2
 Logos
+Odyssey16_Logo_6mm
+
+
+0
+0
+0
+Logos
 Odyssey16_Logo_9mm
 
 
@@ -68438,174 +68445,6 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
-Random Keyboard Parts
-D_SOD-123-Pretty
-SOD-123
-SOD-123
-0
-2
-2
-Random Keyboard Parts
-Generic-Mounthole
-
-
-0
-1
-1
-Random Keyboard Parts
-JST-SR-3
-
-
-0
-5
-3
-Random Keyboard Parts
-JST-SR-4
-
-
-0
-6
-4
-Random Keyboard Parts
-Jumper-UserFriendly
-
-
-0
-2
-2
-Random Keyboard Parts
-Jumper-UserFriendly-Small
-
-
-0
-2
-2
-Random Keyboard Parts
-LED-6028
-
-
-0
-2
-2
-Random Keyboard Parts
-LED_D3.0mm-NoSilk
-LED, diameter 3.0mm, 2 pins
-LED diameter 3.0mm 2 pins
-0
-2
-2
-Random Keyboard Parts
-LED_D3.0mm-Pretty
-LED, diameter 3.0mm, 2 pins
-LED diameter 3.0mm 2 pins
-0
-2
-2
-Random Keyboard Parts
-Molex-0548190519
-
-
-0
-7
-6
-Random Keyboard Parts
-Molex-0548190589
-
-
-0
-9
-6
-Random Keyboard Parts
-PJ-3200B-4A
-
-
-0
-4
-4
-Random Keyboard Parts
-PJ-3200B-4A-Assembly
-
-
-0
-4
-4
-Random Keyboard Parts
-PushButton_6x6mm_TH
-
-
-0
-4
-4
-Random Keyboard Parts
-PushButton_6x6mm_TH_Pretty
-
-
-0
-4
-4
-Random Keyboard Parts
-RGB-6028
-
-
-0
-4
-4
-Random Keyboard Parts
-Reset_Pretty
-
-
-0
-6
-6
-Random Keyboard Parts
-Reset_Pretty-Mask
-
-
-0
-6
-6
-Random Keyboard Parts
-SKQG-1155865
-
-
-0
-4
-4
-Random Keyboard Parts
-SKQGADE010
-
-
-0
-4
-4
-Random Keyboard Parts
-SOT143B
-
-
-0
-4
-4
-Random Keyboard Parts
-USB-A-Generic
-
-
-0
-6
-5
-Random Keyboard Parts
-USON-TPDxE05U06
-
-
-0
-10
-10
-Random Keyboard Parts
-breakaway-mousebites
-
-
-0
-0
-0
 Relay_SMD
 Relay_DPDT_AXICOM_IMSeries_JLeg
 http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Specification+Or+Standard%7F108-98001%7FW5%7Fpdf%7FEnglish%7FENG_SS_108-98001_W5.pdf
@@ -77020,3 +76859,10 @@ varistor SIOV
 0
 2
 2
+promicro
+ProMicro
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
