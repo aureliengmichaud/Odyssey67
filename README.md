@@ -3,7 +3,7 @@
  [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/aureliengmichaud/Odyssey67/blob/master/LICENSE)
  ![Open Source](https://img.shields.io/badge/open_source-yes-brightgreen)
 
- ### Update: The PCB is now on Rev 2.1; it has been updated due to some minor clearance issues (stabilizers overlapping diodes).
+ ### Update: The PCB is now on Rev 2.1; it has been updated due to some minor clearance issues (stabilizers overlapping diodes). The plates are on Rev 2.0; two holes have been added for better support.
 
  A simple and practical 65% mechanical keyboard powered Elite-C microcontroller.
 
@@ -47,11 +47,11 @@
 
 ### Switch Plate
 
- ![Switch Plate](https://i.imgur.com/5GfHcBU.png)
+ ![Switch Plate](https://i.imgur.com/L6NuyFb.png)
 
 ### Bottom Plate
 
- ![Bottom Plate](https://i.imgur.com/EwsVY63.png)
+ ![Bottom Plate](https://i.imgur.com/laIwWEt.png)
 
 ### Files
 
@@ -63,8 +63,8 @@
 
  * x1 Odyssey67 PCB
  * x1 Switch & Bottom Plates
- * x16 M3x8 Screws
- * x8 M3x14 Standoffs
+ * x20 M3x8 Screws
+ * x10 M3x14 Standoffs
  * x67 Cherry MX Switches (or compatible)
  * x1 Set of Cherry MX PCB Mount Stabilizers
  * x67 1N4148 Diodes
