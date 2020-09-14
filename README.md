@@ -57,19 +57,26 @@
 
  Grab the files needed to get the plates made [here](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates). DXF and SVG files are included, depending on the manufacturer's needs.
 
-## Parts
+## Parts List
 
- All the parts required are neatly listed in the [build guide](https://github.com/aureliengmichaud/Odyssey67/blob/master/BUILD_GUIDE.md), but here's a quick overview:
+ Part  |  Quantity
+ :----  |  :--------:
+ [Odyssey 67 PCB](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip)  |  1
+ [1N4148 Diodes](https://candykeys.com/product/fairchild-semiconductor-diode-1n4148-pack-of-100)  |  67
+ [Elite-C Microcontroller](https://splitkb.com/collections/keyboard-parts/products/elite-c-rev3-microcontroller)  |  1
+ [Cherry MX (or compatible) Switches](https://candykeys.com/category:switches/brand:cherry)  |  67
+ [Cherry Stabilizers 2u](https://candykeys.com/product/original-cherry-2u-pcb-stabilizer)  |  3
+ [Cherry Stabilizer 6.25u](https://candykeys.com/product/official-cherry-mx-stabiliser-6-25u)  |  1
+ [Odyssey 67 Switch Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)  |  1
+ [Odyssey 67 Bottom Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)  |  1
+ [M3x8 Screws](https://www.ebay.fr/sch/i.html?_odkw=m3x8+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+screws&_sacat=0)  |  20
+ [M3x14 Standoffs](https://www.ebay.fr/sch/i.html?_odkw=m3+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+standoffs&_sacat=0)  |  10
+ [USB-C Cable](https://candykeys.com/product/black-nylon-usb-c-cable-1m)  | 1
+ [Keycaps](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200426114303&SearchText=keycaps)  |  67
 
- * x1 Odyssey67 PCB
- * x1 Switch & Bottom Plates
- * x20 M3x8 Screws
- * x10 M3x14 Standoffs
- * x67 Cherry MX Switches (or compatible)
- * x1 Set of Cherry MX PCB Mount Stabilizers
- * x67 1N4148 Diodes
- * x1 USB-C Cable
- * x67 Keycaps
+## Build Guide
+
+ If you're new to this, make sure to study and follow the build guide available [here](https://github.com/aureliengmichaud/Odyssey67/blob/master/BUILD_GUIDE.md).
 
 ## Firmware
 
