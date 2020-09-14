@@ -59,7 +59,7 @@
 
 ## Parts
 
- All the parts required are neatly listed in the [build guide](https://github.com/aureliengmichaud/Odyssey67/tree/master/Build%20Guide), but here's a quick overview:
+ All the parts required are neatly listed in the [build guide](https://github.com/aureliengmichaud/Odyssey67/blob/master/BUILD_GUIDE.md), but here's a quick overview:
 
  * x1 Odyssey67 PCB
  * x1 Switch & Bottom Plates
