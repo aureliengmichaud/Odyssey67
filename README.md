@@ -82,6 +82,8 @@
 
  The keyboard is powered by [QMK Firmware](https://github.com/qmk/qmk_firmware). You can find the firmware for the Odyssey67 [here](https://github.com/aureliengmichaud/Odyssey67/tree/master/Firmware/aureliengmichaud/odyssey67).
 
+ Add the `aureliengmichaud` folder to your own fork of QMK to flash it to your keyboard.
+
  If you're new to QMK, please take the time to learn all the ins and outs and familiarize yourself with it by reading the [official documentation](https://docs.qmk.fm/#/).
 
 ## License
