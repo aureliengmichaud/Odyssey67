@@ -59,20 +59,20 @@
 
 ## Parts List
 
- Part  |  Quantity
- :----  |  :--------:
- [Odyssey 67 PCB](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip)  |  1
- [1N4148 Diodes](https://candykeys.com/product/fairchild-semiconductor-diode-1n4148-pack-of-100)  |  67
- [Elite-C Microcontroller](https://splitkb.com/collections/keyboard-parts/products/elite-c-rev3-microcontroller)  |  1
- [Cherry MX (or compatible) Switches](https://candykeys.com/category:switches/brand:cherry)  |  67
- [Cherry Stabilizers 2u](https://candykeys.com/product/original-cherry-2u-pcb-stabilizer)  |  3
- [Cherry Stabilizer 6.25u](https://candykeys.com/product/official-cherry-mx-stabiliser-6-25u)  |  1
- [Odyssey 67 Switch Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)  |  1
- [Odyssey 67 Bottom Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)  |  1
- [M3x8 Screws](https://www.ebay.fr/sch/i.html?_odkw=m3x8+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+screws&_sacat=0)  |  20
+ Part                                                                                                                                 |  Quantity
+ :----------------------------------------------------------------------------------------------------------------------------------  |  :-------:
+ [Odyssey 67 PCB](https://github.com/aureliengmichaud/Odyssey67/blob/master/Gerbers.zip)                                              |  1
+ [1N4148 Diodes](https://candykeys.com/product/fairchild-semiconductor-diode-1n4148-pack-of-100)                                      |  67
+ [Elite-C Microcontroller](https://splitkb.com/collections/keyboard-parts/products/elite-c-rev3-microcontroller)                      |  1
+ [Cherry MX (or compatible) Switches](https://candykeys.com/category:switches/brand:cherry)                                           |  67
+ [Cherry Stabilizers 2u](https://candykeys.com/product/original-cherry-2u-pcb-stabilizer)                                             |  3
+ [Cherry Stabilizer 6.25u](https://candykeys.com/product/official-cherry-mx-stabiliser-6-25u)                                         |  1
+ [Odyssey 67 Switch Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)                                          |  1
+ [Odyssey 67 Bottom Plate](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates)                                          |  1
+ [M3x8 Screws](https://www.ebay.fr/sch/i.html?_odkw=m3x8+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+screws&_sacat=0)       |  20
  [M3x14 Standoffs](https://www.ebay.fr/sch/i.html?_odkw=m3+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+standoffs&_sacat=0)  |  10
- [USB-C Cable](https://candykeys.com/product/black-nylon-usb-c-cable-1m)  | 1
- [Keycaps](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200426114303&SearchText=keycaps)  |  67
+ [USB-C Cable](https://candykeys.com/product/black-nylon-usb-c-cable-1m)                                                              |  1
+ [Keycaps](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200426114303&SearchText=keycaps)                           |  67
 
 ## Build Guide
 
